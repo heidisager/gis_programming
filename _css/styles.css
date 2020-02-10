@@ -1,0 +1,47 @@
+/* 
+Author: Heidi A. Sager
+Due Date: 4 February 2020
+Title: Deliverable 1: Javascript/Google Maps API
+CSS File: This file create the style guide for the HTML
+*/
+
+div.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	top:89%;
+	width: 100%;
+	background-color: #a6a6a6;
+	color: white;
+	text-align: center;
+	font-family: "Arial Narrow";
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	}
+
+h1,h2 {
+	left: 0;
+	top: 0;
+	bottom: 90%;
+	width: 100%;
+	background-color: #a6a6a6;
+	color: white;
+	text-align: center;
+	font-family: "Arial Narrow";
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	}
+a 	{
+	color: white;
+	
+	}
+a:visited {
+	color: white; 
+	}
+a:hover {
+	color: yellow;
+	}
